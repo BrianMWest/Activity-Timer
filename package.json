@@ -1,0 +1,23 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.5"
+  },
+  "dependencies": {
+    "active-window": "^0.1.0",
+    "bootstrap": "^4.1.2",
+    "d3": "^5.5.0",
+    "jquery": "^3.3.1",
+    "mithril": "^1.1.6",
+    "sprintf-js": "^1.1.1"
+  }
+}
